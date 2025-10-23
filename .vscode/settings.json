@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "stb_image_write.h": "c"
+    }
+}
